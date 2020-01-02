@@ -2,21 +2,24 @@
   "posts": [
     { "albumId": 1,
     "id": 1,
-    "title": "accusamus beatae ad facilis cum similique qui sunt",
+    "title": "Madagascar Centella Asiatica Toner",
+    "information" : "Bahan Utama Ekstrak Centellasam Hyaluronic Pendahuluan Produk Toning Toner yang mengandung ekstrak Centella Asiatica dari pulau Madagaskar yang tidak ternoda, dan PHA, yang membantu membersihkan sel-sel kulit mati, untuk kulit yang lebih terhidrasi dan membersihkan.",
     "url": "https://nihonmart.id/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/a/madagascar_centella_toner_210ml.jpg",
     "thumbnailUrl": "https://nihonmart.id/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/a/madagascar_centella_toner_210ml.jpg"
     },
     {
     "albumId": 1,
     "id": 2,
-    "title": "reprehenderit est deserunt velit ipsam",
+    "title": "NACIFIC Real Floral Toner (Rose)",
+    "information" : "Toner hydrating diformulasi dengan 92% air bunga mawar yang menenangkan, menyegarkan, menyehatkan kulit, membersihkan pori-pori dari residu makeup, nyaman untuk meminimalkan iritasi dan bebas dari bahan berbahaya.",
     "url": "https://via.placeholder.com/600/771796",
     "thumbnailUrl": "https://via.placeholder.com/150/771796"
   },
   {
     "albumId": 1,
     "id": 3,
-    "title": "officia porro iure quia iusto qui ipsa ut modi",
+    "title": "COSRX AHA/BHA Clarifying Treatment Tone",
+    "information" : "Toner ini diformulasikan dengan AHA alami - 10% Apple Fruit Water, dan BHA alami - 10% White Willow Water serta air mineral .  Ini akan membantu untuk mencegah komedo (whiteheads) dan jerawat secara keseluruhan dan  menjaga kelembaban. Cocok untuk semua jenis kulit.",
     "url": "https://via.placeholder.com/600/24f355",
     "thumbnailUrl": "https://via.placeholder.com/150/24f355"
   }
