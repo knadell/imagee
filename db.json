@@ -1,5 +1,5 @@
 {
-  "toner": [
+  "posts": [
     { "albumId": 1,
     "id": 1,
     "title": "Madagascar Centella Asiatica",
@@ -72,7 +72,7 @@
 ],
   
   
-  "serum": [
+  "comments": [
     { "albumId": 1,
     "id": 1,
     "title": "Green Tea Seed Serum",
