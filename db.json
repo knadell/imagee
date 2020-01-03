@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "toner": [
     { "albumId": 1,
     "id": 1,
     "title": "Madagascar Centella Asiatica",
@@ -72,77 +72,82 @@
 ],
   
   
-  "comments": [
-    { "albumId": 1,
+  "serum": [
+    { "albumId": 2,
     "id": 1,
     "title": "Green Tea Seed Serum",
     "url": "https://i.imgur.com/08MyaJI.jpg",
     "thumbnailUrl": "https://i.imgur.com/6oq9rQK.png"
     },
     {
-    "albumId": 1,
+    "albumId": 2,
     "id": 2,
     "title": "Roots Of Strength",
     "url": "https://i.imgur.com/uuN9OUx.jpg",
     "thumbnailUrl": "https://i.imgur.com/JyqOxi5.png"
   },
   {
-    "albumId": 1,
+    "albumId": 2,
     "id": 3,
     "title": "Fresh Calming Serum ",
     "url": "https://i.imgur.com/NHFDknj.jpg",
     "thumbnailUrl": "https://i.imgur.com/vCDKjfr.png"
   },
   {
-    "albumId": 1,
+    "albumId": 2,
     "id": 4,
     "title": "Niacinamide 10% + Zinc 1% ",
     "url": "https://i.imgur.com/cJIxXGs.jpg",
     "thumbnailUrl": "https://i.imgur.com/0UZjjsa.png"
   },
   {
-    "albumId": 1,
+    "albumId": 2,
     "id": 5,
     "title": "Fresh Herb Origin Serum ",
     "url": "https://i.imgur.com/l45hpCV.jpg",
     "thumbnailUrl": "https://i.imgur.com/lRzqMPg.png"
   },
     {
-    "albumId": 1,
+    "albumId": 2,
     "id": 6,
     "title": "Radiant Skin Serum",
     "url": "https://i.imgur.com/0B8asNi.jpg",
     "thumbnailUrl": "https://i.imgur.com/aMOR0fW.png"
   },
     {
-    "albumId": 1,
+    "albumId": 2,
     "id": 7,
     "title": "NatRep Fresh Green Tea ",
     "url": "https://i.imgur.com/hebxHOh.jpg",
     "thumbnailUrl": "https://i.imgur.com/J1GasK8.png"
   },
   {
-    "albumId": 1,
+    "albumId": 2,
     "id": 8,
     "title": "Snail Bee Ultimate Serum",
     "url": "https://i.imgur.com/FekgDrZ.jpg",
     "thumbnailUrl": "https://i.imgur.com/ffgY0kt.png"
   },
   {
-    "albumId": 1,
+    "albumId": 2,
     "id": 9,
     "title": "Snowise Brightening Serum",
     "url": "https://i.imgur.com/a9roUxF.jpg",
     "thumbnailUrl": "https://i.imgur.com/JTKyVzJ.png"
   },
   {
-    "albumId": 1,
+    "albumId": 2,
     "id": 10,
     "title": "C-Defense",
     "url": "https://i.imgur.com/3w5whly.jpg",
     "thumbnailUrl": "https://i.imgur.com/TC9RbsT.png"
   }
+],
     
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
   "profile": {
     "name": "typicode"
   }
