@@ -4,25 +4,74 @@
     "id": 1,
     "title": "Madagascar Centella Asiatica Toner",
     "information" : "Bahan Utama Ekstrak Centellasam Hyaluronic Pendahuluan Produk Toning Toner yang mengandung ekstrak Centella Asiatica dari pulau Madagaskar yang tidak ternoda, dan PHA, yang membantu membersihkan sel-sel kulit mati, untuk kulit yang lebih terhidrasi dan membersihkan.",
-    "url": "https://i.imgur.com/0Ft7ccg.jpg",
+    "url": "https://i.imgur.com/WTFczB0.jpg",
     "thumbnailUrl": "https://i.imgur.com/0Ft7ccg.jpg"
     },
     {
     "albumId": 1,
     "id": 2,
     "title": "NACIFIC Real Floral Toner (Rose)",
-    "information" : "Toner hydrating diformulasi dengan 92% air bunga mawar yang menenangkan, menyegarkan, menyehatkan kulit, membersihkan pori-pori dari residu makeup, nyaman untuk meminimalkan iritasi dan bebas dari bahan berbahaya.",
     "url": "https://i.imgur.com/3YcRTeR.jpg",
     "thumbnailUrl": "https://i.imgur.com/3YcRTeR.jpg"
   },
   {
     "albumId": 1,
     "id": 3,
-    "title": "COSRX AHA/BHA Clarifying Treatment Tone",
-    "information" : "Toner ini diformulasikan dengan AHA alami - 10% Apple Fruit Water, dan BHA alami - 10% White Willow Water serta air mineral .  Ini akan membantu untuk mencegah komedo (whiteheads) dan jerawat secara keseluruhan dan  menjaga kelembaban. Cocok untuk semua jenis kulit.",
+    "title": "COSRX AHA/BHA Clarifying Treatment Toner",
+    "url": "https://via.placeholder.com/600/24f355",
+    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+  },
+  {
+    "albumId": 1,
+    "id": 4,
+    "title": "Innisfree Jeju Volcanic Pore Toner",
+    "url": "https://i.imgur.com/3YcRTeR.jpg",
+    "thumbnailUrl": "https://i.imgur.com/3YcRTeR.jpg"
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "Somebymi AHA/BHA/PHA Miracle Toner",
+    "url": "https://via.placeholder.com/600/24f355",
+    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+  },
+    {
+    "albumId": 1,
+    "id": 6,
+    "title": "Benton Aloe BHA Skin Toner",
+    "url": "https://via.placeholder.com/600/24f355",
+    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+  },
+    {
+    "albumId": 1,
+    "id": 7,
+    "title": "Nature Republic Fresh Green Tea ",
+    "url": "https://i.imgur.com/3YcRTeR.jpg",
+    "thumbnailUrl": "https://i.imgur.com/3YcRTeR.jpg"
+  },
+  {
+    "albumId": 1,
+    "id": 8,
+    "title": "Etude House Wonder Pore Freshner Toner",
+    "url": "https://via.placeholder.com/600/24f355",
+    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+  },
+  {
+    "albumId": 1,
+    "id": 9,
+    "title": "Neogen Real Flower Cleansing Water",
+    "url": "https://i.imgur.com/3YcRTeR.jpg",
+    "thumbnailUrl": "https://i.imgur.com/3YcRTeR.jpg"
+  },
+  {
+    "albumId": 1,
+    "id": 10,
+    "title": "Son & Park Beauty Water",
     "url": "https://via.placeholder.com/600/24f355",
     "thumbnailUrl": "https://via.placeholder.com/150/24f355"
   }
+    
+   
 ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
