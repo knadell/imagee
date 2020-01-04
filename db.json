@@ -143,6 +143,66 @@
     "thumbnailUrl": "https://i.imgur.com/TC9RbsT.png"
   }
 ],
+  
+  
+  "serum": [
+    { "albumId": 3,
+    "id": 1,
+    "title": "UV Moisture Milk",
+    "url": "https://i.imgur.com/kxO14iY.jpg",
+    "thumbnailUrl": "https://i.imgur.com/4WjpVfz.png"
+    },
+    {
+    "albumId": 3,
+    "id": 2,
+    "title": "Vit E Moisture Cream",
+    "url": "https://i.imgur.com/DcbhPzz.jpg",
+    "thumbnailUrl": "https://i.imgur.com/8fMessn.png"
+  },
+  {
+    "albumId": 3,
+    "id": 3,
+    "title": "NatRep Aloe Vera Gel ",
+    "url": "https://i.imgur.com/DHRGS8G.jpg", 
+    "thumbnailUrl": "https://i.imgur.com/QTOnQKs.png"
+  },
+  {
+    "albumId": 3,
+    "id": 4,
+    "title": "Water Bank Moisture Cream ",
+    "url": "https://i.imgur.com/77OIwUO.jpg",
+    "thumbnailUrl": "https://i.imgur.com/LjP2I9j.png"
+  },
+  {
+    "albumId": 3,
+    "id": 5,
+    "title": "Moisturizing Cream ",
+    "url": "https://i.imgur.com/iDL2G0u.jpg",
+    "thumbnailUrl": "https://i.imgur.com/18XzWJY.png"
+  },
+    {
+    "albumId": 3,
+    "id": 6,
+    "title": "My Juicy Gel Face & Body",
+    "url": "https://i.imgur.com/1UdDqtE.jpg",
+    "thumbnailUrl": "https://i.imgur.com/9QdnxfE.png"
+  },
+    {
+    "albumId": 3,
+    "id": 7,
+    "title": "Rich Moist Soothing Cream",
+    "url": "https://i.imgur.com/2d19w1g.jpg",
+    "thumbnailUrl": "https://i.imgur.com/48K1m2a.png"
+  },
+  {
+    "albumId": 3,
+    "id": 8,
+    "title": "Sparkling Pore Line Cream",
+    "url": "https://i.imgur.com/JnS7Gd7.jpg",
+    "thumbnailUrl": "https://i.imgur.com/fkSI7VJ.png"
+  }
+],
+  
     
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
