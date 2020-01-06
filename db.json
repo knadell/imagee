@@ -1,69 +1,69 @@
 {
   "toner": [
-    { "albumId": 1,
+    { "photoId": 1,
     "id": 1,
     "title": "Madagascar Centella Asiatica",
     "url": "https://i.imgur.com/HvoPin7.jpg",
     "thumbnailUrl": "https://i.imgur.com/rh6JrJy.png"
     },
     {
-    "albumId": 1,
+    "photoId": 1,
     "id": 2,
     "title": "Real Floral Toner Rose",
     "url": "https://i.imgur.com/khVy9D9.jpg",
     "thumbnailUrl": "https://i.imgur.com/LF6nenA.png"
   },
   {
-    "albumId": 1,
+    "photoId": 1,
     "id": 3,
     "title": "AHA/BHA Clarifying ",
     "url": "https://i.imgur.com/erbzhDP.jpg",
     "thumbnailUrl": "https://i.imgur.com/lucg9zf.png"
   },
   {
-    "albumId": 1,
+    "photoId": 1,
     "id": 4,
     "title": "Jeju Volcanic Pore",
     "url": "https://i.imgur.com/XDApBP2.jpg",
     "thumbnailUrl": "https://i.imgur.com/oH83ySN.png"
   },
   {
-    "albumId": 1,
+    "photoId": 1,
     "id": 5,
     "title": "AHA/BHA/PHA Miracle ",
     "url": "https://i.imgur.com/RjMIAwl.jpg",
     "thumbnailUrl": "https://i.imgur.com/PLSgrgX.png"
   },
     {
-    "albumId": 1,
+    "photoId": 1,
     "id": 6,
     "title": "Aloe BHA Skin Toner",
     "url": "https://i.imgur.com/aAa6ron.jpg",
     "thumbnailUrl": "https://i.imgur.com/sMZOzcu.png"
   },
     {
-    "albumId": 1,
+    "photoId": 1,
     "id": 7,
     "title": "NatRep Fresh Green Tea ",
     "url": "https://i.imgur.com/hebxHOh.jpg",
     "thumbnailUrl": "https://i.imgur.com/J1GasK8.png"
   },
   {
-    "albumId": 1,
+    "photoId": 1,
     "id": 8,
     "title": "Wonder Pore Freshner",
     "url": "https://i.imgur.com/HUSj2FB.jpg",
     "thumbnailUrl": "https://i.imgur.com/F6gJz0J.png"
   },
   {
-    "albumId": 1,
+    "photoId": 1,
     "id": 9,
     "title": "Real Flower Cleansing Water",
     "url": "https://i.imgur.com/vT5onwt.jpg",
     "thumbnailUrl": "https://i.imgur.com/wa6RvAe.png"
   },
   {
-    "albumId": 1,
+    "photoId": 1,
     "id": 10,
     "title": "Toner Tea Tree",
     "url": "https://i.imgur.com/rowGJbK.jpg",
@@ -73,70 +73,70 @@
   
   
   "serum": [
-    { "albumId": 2,
+    { "photoId": 2,
     "id": 1,
     "title": "Green Tea Seed Serum",
     "url": "https://i.imgur.com/08MyaJI.jpg",
     "thumbnailUrl": "https://i.imgur.com/6oq9rQK.png"
     },
     {
-    "albumId": 2,
+    "photoId": 2,
     "id": 2,
     "title": "Roots Of Strength",
     "url": "https://i.imgur.com/uuN9OUx.jpg",
     "thumbnailUrl": "https://i.imgur.com/JyqOxi5.png"
   },
   {
-    "albumId": 2,
+    "photoId": 2,
     "id": 3,
     "title": "Fresh Calming Serum ",
     "url": "https://i.imgur.com/NHFDknj.jpg",
     "thumbnailUrl": "https://i.imgur.com/vCDKjfr.png"
   },
   {
-    "albumId": 2,
+    "photoId": 2,
     "id": 4,
     "title": "Niacinamide 10% + Zinc 1% ",
     "url": "https://i.imgur.com/cJIxXGs.jpg",
     "thumbnailUrl": "https://i.imgur.com/0UZjjsa.png"
   },
   {
-    "albumId": 2,
+    "photoId": 2,
     "id": 5,
     "title": "Fresh Herb Origin Serum ",
     "url": "https://i.imgur.com/l45hpCV.jpg",
     "thumbnailUrl": "https://i.imgur.com/lRzqMPg.png"
   },
     {
-    "albumId": 2,
+    "photoId": 2,
     "id": 6,
     "title": "Radiant Skin Serum",
     "url": "https://i.imgur.com/0B8asNi.jpg",
     "thumbnailUrl": "https://i.imgur.com/aMOR0fW.png"
   },
     {
-    "albumId": 2,
+    "photoId": 2,
     "id": 7,
     "title": "NatRep Fresh Green Tea ",
     "url": "https://i.imgur.com/hebxHOh.jpg",
     "thumbnailUrl": "https://i.imgur.com/J1GasK8.png"
   },
   {
-    "albumId": 2,
+    "photoId": 2,
     "id": 8,
     "title": "Snail Bee Ultimate Serum",
     "url": "https://i.imgur.com/FekgDrZ.jpg",
     "thumbnailUrl": "https://i.imgur.com/ffgY0kt.png"
   },
   {
-    "albumId": 2,
+    "photoId": 2,
     "id": 9,
     "title": "Snowise Brightening Serum",
     "url": "https://i.imgur.com/a9roUxF.jpg",
     "thumbnailUrl": "https://i.imgur.com/JTKyVzJ.png"
   },
   {
-    "albumId": 2,
+    "photoId": 2,
     "id": 10,
     "title": "C-Defense",
     "url": "https://i.imgur.com/3w5whly.jpg",
@@ -146,56 +146,56 @@
   
   
   "moisturizer": [
-    { "albumId": 3,
+    { "photoId": 3,
     "id": 1,
     "title": "UV Moisture Milk",
     "url": "https://i.imgur.com/kxO14iY.jpg",
     "thumbnailUrl": "https://i.imgur.com/4WjpVfz.png"
     },
     {
-    "albumId": 3,
+    "photoId": 3,
     "id": 2,
     "title": "Vit E Moisture Cream",
     "url": "https://i.imgur.com/DcbhPzz.jpg",
     "thumbnailUrl": "https://i.imgur.com/8fMessn.png"
   },
   {
-    "albumId": 3,
+    "photoId": 3,
     "id": 3,
     "title": "NatRep Aloe Vera Gel ",
     "url": "https://i.imgur.com/DHRGS8G.jpg", 
     "thumbnailUrl": "https://i.imgur.com/QTOnQKs.png"
   },
   {
-    "albumId": 3,
+    "photoId": 3,
     "id": 4,
     "title": "Water Bank Moisture Cream ",
     "url": "https://i.imgur.com/77OIwUO.jpg",
     "thumbnailUrl": "https://i.imgur.com/LjP2I9j.png"
   },
   {
-    "albumId": 3,
+    "photoId": 3,
     "id": 5,
     "title": "Moisturizing Cream ",
     "url": "https://i.imgur.com/iDL2G0u.jpg",
     "thumbnailUrl": "https://i.imgur.com/18XzWJY.png"
   },
     {
-    "albumId": 3,
+    "photoId": 3,
     "id": 6,
     "title": "My Juicy Gel Face & Body",
     "url": "https://i.imgur.com/1UdDqtE.jpg",
     "thumbnailUrl": "https://i.imgur.com/9QdnxfE.png"
   },
     {
-    "albumId": 3,
+    "photoId": 3,
     "id": 7,
     "title": "Rich Moist Soothing Cream",
     "url": "https://i.imgur.com/2d19w1g.jpg",
     "thumbnailUrl": "https://i.imgur.com/48K1m2a.png"
   },
   {
-    "albumId": 3,
+    "photoId": 3,
     "id": 8,
     "title": "Sparkling Pore Line Cream",
     "url": "https://i.imgur.com/JnS7Gd7.jpg",
